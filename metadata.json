@@ -1,0 +1,7 @@
+{
+  "name": "EverAfter Event Suite",
+  "description": "An elegant, AI-powered event management platform for weddings, burials, naming ceremonies, and graduations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
